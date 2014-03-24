@@ -1,0 +1,4 @@
+Mining
+======
+
+GreenCoin Mining
